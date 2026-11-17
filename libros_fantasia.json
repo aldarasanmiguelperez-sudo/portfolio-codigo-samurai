@@ -1,0 +1,3 @@
+{"_id":{"$oid":"6afc2769c4e3c8faef19f918"},"titulo":"El Hobbit","autores":["J.R.R. Tolkien"],"anioPublicacion":1937,"genero":"Fantasia"}
+{"_id":{"$oid":"6afc2769c4e3c8faef19f91b"},"titulo":"Harry Potter y la piedra filosofal","autores":["J.K. Rowling"],"anioPublicacion":1997,"genero":"Fantasia"}
+{"_id":{"$oid":"6afc2769c4e3c8faef19f91e"},"titulo":"El senior de los anillos","autores":["J.R.R. Tolkien"],"anioPublicacion":1954,"genero":"Fantasia"}
